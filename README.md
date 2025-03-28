@@ -62,7 +62,7 @@ A full-stack **Airbnb-inspired** booking system that allows users to **list, sea
 
 5. **Access the application**
    - Frontend: `http://localhost:3000`
-   - Backend API: `http://localhost:5000`
+   - Backend API: `http://localhost:4000`
 
 ## 🏗️ Folder Structure
 ```
