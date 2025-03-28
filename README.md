@@ -21,7 +21,7 @@ A full-stack **Airbnb-inspired** booking system that allows users to **list, sea
 
 ## 📸 Screenshots
 
-*(Add images of your app here)*
+![Screenshot_28-3-2025_23441_localhost](https://github.com/user-attachments/assets/c5a8961f-87ab-42cb-bc2d-524b03404d11)
 
 ## 🏗️ Installation & Setup
 
